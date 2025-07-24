@@ -1,0 +1,1 @@
+git diff --quiet ORIG_HEAD HEAD -- pnpm-lock.yaml || pnpm lint
